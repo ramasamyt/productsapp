@@ -1,3 +1,12 @@
+This app was developed for CodeLouisville JavaScript with React class.
+I am developing an app for displaying list of products (for reviews).
+The app has "Add new Products" and "Delete the Product" functions.
+Right now I am using Jsonplaceholder data for prototype to fetch API.
+
+Thanks.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
