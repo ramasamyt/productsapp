@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* background color - change below */
+  background: rgb(230, 225, 225);
+  /* font style / type change below */
+  font-family: Arial;
+}
+

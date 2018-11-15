@@ -1,0 +1,10 @@
+/* Logo styles here */
+
+    h1 {
+        color: #082905;
+        font-weight: 1000;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    h4 {
+        color: red;
+    }
