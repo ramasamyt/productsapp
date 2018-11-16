@@ -1,7 +1,13 @@
-This app was developed for CodeLouisville JavaScript with React class.
-I am developing an app for displaying list of products (for reviews).
+This app was developed for CodeLouisville "JavaScript with React" class.
+Developing an app for displaying list of products (for reviews).
+Right now, the app is using Jsonplaceholder data for prototype to fetch API.
+Also using picsum photos for each product cards, but final pictures will be corresponding product pictures. 
+
 The app has "Add new Products" and "Delete the Product" functions.
-Right now I am using Jsonplaceholder data for prototype to fetch API.
+POST, PUT and DELETE requests are added and tested at console.
+
+This app is not yet completed full. 
+Need to run npm start to open the app in the browser.
 
 Thanks.
 
