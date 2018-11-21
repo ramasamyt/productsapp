@@ -1,10 +1,76 @@
-/* Logo styles here */
+/* Logo styles below */
 
     h1 {
         color: #082905;
         font-weight: 1000;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
+
+/* Add New Item styles below */
+
     h4 {
         color: red;
+    }
+
+/* remove bullets from nav links */
+    ul {list-style-type: none; }
+    li {
+        display: inline-block;
+        margin-right: 15px;
+
+    }
+
+/* For submit buttion - add product */
+    button {
+        background-color: black;
+    }
+    button[type="submit"] {
+        display: block; 
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+/* For Text - Name and Product and input boxes */    
+    label {
+        color: black;
+        font-size: 1rem;
+        text-align: center;
+        display: block;
+        margin-top: 10px;
+    }
+
+    input[type="text"], select, textarea {
+    border: solid 2px #ddd;}
+    input[type="text"]:focus, select:focus, textarea:focus{
+        border: solid 2px #bbbbbb;
+    }
+
+    /* Delete X styles below */
+    a{
+        color: red;
+        display: block;
+        font-size: 1.2em;
+    }
+
+    /* Home page styling */
+    .card {
+        text-align: center;
+        border-radius: 6px;
+  
+        padding: 20px;
+        margin-bottom: 24px;
+    }
+    .card img {
+        border-radius: 4px;
+        margin-bottom:2 rem;
+            }
+    @media (max-width: 720px){
+        .card img {
+        width: 100%
+        }}
+    .card p {
+        font-size: 1.8 rem;
+        margin-bottom: 1rem;
     }

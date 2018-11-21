@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
+
 body {
   margin: 0;
   padding: 0;
@@ -6,4 +8,29 @@ body {
   /* font style / type change below */
   font-family: Arial;
 }
+
+.home a,
+input,
+button {
+  padding: .5em;
+}
+button {
+  color: white;
+  background: black;
+}
+
+/* Main Navigation Styles */
+.main-nav a {
+  font-size: 1.5em;
+  color: red;
+  text-transform: uppercase;
+  display: block;
+  padding: .2em;
+}
+.main-nav a:hover,
+.main-nav .active{
+  color: rgb(61, 58, 58);
+  text-decoration-style: solid;
+}
+
 

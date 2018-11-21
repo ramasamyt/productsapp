@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Containers/App.css';
 
 const Review = ({incomingdata}) => {
 // Testing at Console
@@ -10,7 +11,7 @@ return (
     
     <div>
         <img alt = 'image' src={'https://picsum.photos/200/300/?random'} />
-        <h4>Delete this Product</h4>
+        <a  className='delete' href="#">DELETE</a>
         <h2>{incomingdata.name}</h2>
         <p>{incomingdata.email}</p>
         <p>{incomingdata.id}</p>
@@ -19,6 +20,7 @@ return (
 </div>
 
 );
+
 }
 export default Review;
 

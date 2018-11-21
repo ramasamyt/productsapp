@@ -1,18 +1,3 @@
-This app was developed for CodeLouisville "JavaScript with React" class.
-Developing an app for displaying list of products (for reviews).
-Right now, the app is using Jsonplaceholder data for prototype to fetch API.
-Also using picsum photos for each product cards, but final pictures will be corresponding product pictures. 
-
-The app has "Add new Products" and "Delete the Product" functions.
-POST, PUT and DELETE requests are added and tested at console.
-
-This app is not yet completed full. 
-Need to run npm start to open the app in the browser.
-
-Thanks.
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
