@@ -1,3 +1,13 @@
+Good Day,
+
+This project was developed for Code Louisville JavaScript React Class.
+Develeped an app for product reviews and share with the users. Users can search for the products using search window.
+Used fetch API for pulling data from jsonplaceholder server for the prototype.
+Fetch functions are in src/Containers/Productlist.
+
+Install npm and react for opening up the project.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
